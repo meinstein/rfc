@@ -16,10 +16,10 @@ const Footer = () => (
 			<i className="fa fa-mobile" style={styles.icon} />
 			310.779.6557
 		</div>
-		<a href="https://www.instagram.com/richard.friedman.catering">
+		<a href="https://www.instagram.com/r.f.catering/">
 			<div style={styles.contact}>
 				<i className="fa fa-instagram" style={styles.icon} />
-				richard.friedman.catering
+				r.f.catering
 			</div>
 		</a>
 	</footer>
